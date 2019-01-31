@@ -1,0 +1,11 @@
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/PagaTrabajador/bin/Debug/netcoreapp2.2/PagaTrabajador.deps.json
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/PagaTrabajador/bin/Debug/netcoreapp2.2/PagaTrabajador.runtimeconfig.json
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/PagaTrabajador/bin/Debug/netcoreapp2.2/PagaTrabajador.runtimeconfig.dev.json
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/PagaTrabajador/bin/Debug/netcoreapp2.2/PagaTrabajador.dll
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/PagaTrabajador/bin/Debug/netcoreapp2.2/PagaTrabajador.pdb
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/PagaTrabajador/obj/Debug/netcoreapp2.2/PagaTrabajador.csprojAssemblyReference.cache
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/PagaTrabajador/obj/Debug/netcoreapp2.2/PagaTrabajador.csproj.CoreCompileInputs.cache
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/PagaTrabajador/obj/Debug/netcoreapp2.2/PagaTrabajador.AssemblyInfoInputs.cache
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/PagaTrabajador/obj/Debug/netcoreapp2.2/PagaTrabajador.AssemblyInfo.cs
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/PagaTrabajador/obj/Debug/netcoreapp2.2/PagaTrabajador.dll
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/PagaTrabajador/obj/Debug/netcoreapp2.2/PagaTrabajador.pdb

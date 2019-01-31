@@ -1,0 +1,11 @@
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/HolaMundo/bin/Debug/netcoreapp2.2/HolaMundo.deps.json
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/HolaMundo/bin/Debug/netcoreapp2.2/HolaMundo.runtimeconfig.json
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/HolaMundo/bin/Debug/netcoreapp2.2/HolaMundo.runtimeconfig.dev.json
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/HolaMundo/bin/Debug/netcoreapp2.2/HolaMundo.dll
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/HolaMundo/bin/Debug/netcoreapp2.2/HolaMundo.pdb
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/HolaMundo/obj/Debug/netcoreapp2.2/HolaMundo.csprojAssemblyReference.cache
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/HolaMundo/obj/Debug/netcoreapp2.2/HolaMundo.csproj.CoreCompileInputs.cache
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/HolaMundo/obj/Debug/netcoreapp2.2/HolaMundo.AssemblyInfoInputs.cache
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/HolaMundo/obj/Debug/netcoreapp2.2/HolaMundo.AssemblyInfo.cs
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/HolaMundo/obj/Debug/netcoreapp2.2/HolaMundo.dll
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/HolaMundo/obj/Debug/netcoreapp2.2/HolaMundo.pdb
