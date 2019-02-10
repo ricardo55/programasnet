@@ -24,7 +24,7 @@ namespace Programa01
                 c=1;
 
                 while(c<=100){
-                    Console.Write($" {c} ");
+                    Console.Write($" {c} \n");
                     c++;
                     suma+=c;
 
@@ -35,8 +35,8 @@ namespace Programa01
                 case 2:{
 
                     c=100;
-                    while(c>1){
-                        Console.Write($" {c}");
+                    while(c>=1){
+                        Console.Write($" {c}\n");
                         suma+=c--;
                     }
 
@@ -47,18 +47,22 @@ namespace Programa01
                     for (int i = 50; i <= 200 ; i++)
                     {
                         suma+=1;
-                        Console.Write($" {i}");
+                        Console.Write($" {i}\n");
                         
                     }
                 }break;
 
                 case 4:{
 
-                    for (int i = 2; i <= 100 ; i++){
-                        suma+=i;
-                        Console.Write($" {i}");
+                    // for (int i = 2; i <= 100 ; i++){
+                    //     suma+=i;
+                    //     Console.Write($" {i}\n");
                         
-                    }
+                    // }
+                     for (int i = 2; i <= 100; i += 2) {
+                         suma+=i;
+                         Console.Write($" {i}\n");
+                     }
 
                 }break;
 
@@ -66,7 +70,7 @@ namespace Programa01
 
                      for (int i = 99; i >=1; i-=2){
                         suma+=i;
-                        Console.Write($" {i}");
+                        Console.Write($" {i}\n");
                         
                     }
 
@@ -75,11 +79,11 @@ namespace Programa01
 
                 case 6: {
                     c=272;
-                    while (c>=10)
+                    while (c>=40)
                     {
-                        Console.Write($" {c}");
+                        Console.Write($" {c}\n");
                         suma+=c;
-                        c-=1;
+                        c-=4;
                     }
                 }break;
                 
