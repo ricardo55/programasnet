@@ -4,6 +4,9 @@ namespace Programa01
 {
     class Program
     {
+        //Programa que sirve para poder ejemplificar el uso de estructuras y ciclos
+        //Ricardo Villagrana
+        //07/02/18
         static int Main(string[] args)
         {
             

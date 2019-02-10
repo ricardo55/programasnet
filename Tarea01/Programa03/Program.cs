@@ -4,6 +4,9 @@ namespace Programa03
 {
     class Program
     {
+        //Programa que sirve para imprimir las tablas de multiplicar
+        //Ricardo Villagrana
+        //07/02/18
        
         static void Main(string[] args)
         {

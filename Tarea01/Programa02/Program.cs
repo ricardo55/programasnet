@@ -2,6 +2,9 @@
 
 namespace Programa02
 {
+    //Programa que sirve para poder pedir una Pizza
+    //Ricardo Villagrana
+    //07/02/18
     class Program
     {
         static void Main(string[] args)
