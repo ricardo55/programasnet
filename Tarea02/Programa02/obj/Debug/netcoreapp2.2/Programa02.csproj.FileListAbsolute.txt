@@ -1,0 +1,11 @@
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Tarea02/Programa02/bin/Debug/netcoreapp2.2/Programa02.deps.json
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Tarea02/Programa02/bin/Debug/netcoreapp2.2/Programa02.runtimeconfig.json
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Tarea02/Programa02/bin/Debug/netcoreapp2.2/Programa02.runtimeconfig.dev.json
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Tarea02/Programa02/bin/Debug/netcoreapp2.2/Programa02.dll
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Tarea02/Programa02/bin/Debug/netcoreapp2.2/Programa02.pdb
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Tarea02/Programa02/obj/Debug/netcoreapp2.2/Programa02.csprojAssemblyReference.cache
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Tarea02/Programa02/obj/Debug/netcoreapp2.2/Programa02.csproj.CoreCompileInputs.cache
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Tarea02/Programa02/obj/Debug/netcoreapp2.2/Programa02.AssemblyInfoInputs.cache
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Tarea02/Programa02/obj/Debug/netcoreapp2.2/Programa02.AssemblyInfo.cs
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Tarea02/Programa02/obj/Debug/netcoreapp2.2/Programa02.dll
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Tarea02/Programa02/obj/Debug/netcoreapp2.2/Programa02.pdb
