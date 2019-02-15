@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/HolaMundo/HolaMundo.csproj",
+      "projectUniqueName": "/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/clase02/HolaMundo/HolaMundo.csproj",
       "projectName": "HolaMundo",
-      "projectPath": "/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/HolaMundo/HolaMundo.csproj",
+      "projectPath": "/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/clase02/HolaMundo/HolaMundo.csproj",
       "packagesPath": "/Users/ricardovb/.nuget/packages/",
-      "outputPath": "/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/HolaMundo/obj/",
+      "outputPath": "/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/clase02/HolaMundo/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
