@@ -1,0 +1,11 @@
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Tarea03/ProyectoBancario/bin/Debug/netcoreapp2.2/ProyectoBancario.deps.json
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Tarea03/ProyectoBancario/bin/Debug/netcoreapp2.2/ProyectoBancario.runtimeconfig.json
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Tarea03/ProyectoBancario/bin/Debug/netcoreapp2.2/ProyectoBancario.runtimeconfig.dev.json
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Tarea03/ProyectoBancario/bin/Debug/netcoreapp2.2/ProyectoBancario.dll
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Tarea03/ProyectoBancario/bin/Debug/netcoreapp2.2/ProyectoBancario.pdb
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Tarea03/ProyectoBancario/obj/Debug/netcoreapp2.2/ProyectoBancario.csprojAssemblyReference.cache
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Tarea03/ProyectoBancario/obj/Debug/netcoreapp2.2/ProyectoBancario.csproj.CoreCompileInputs.cache
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Tarea03/ProyectoBancario/obj/Debug/netcoreapp2.2/ProyectoBancario.AssemblyInfoInputs.cache
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Tarea03/ProyectoBancario/obj/Debug/netcoreapp2.2/ProyectoBancario.AssemblyInfo.cs
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Tarea03/ProyectoBancario/obj/Debug/netcoreapp2.2/ProyectoBancario.dll
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Tarea03/ProyectoBancario/obj/Debug/netcoreapp2.2/ProyectoBancario.pdb
