@@ -15,8 +15,8 @@ namespace ProyectoBancario.clases
 
         }
 
-
-        private double saldo;
+        //protected permite que las clases derivadas accedan
+        protected double saldo;
         public double Saldo
         {
             get { return saldo;}
@@ -31,8 +31,9 @@ namespace ProyectoBancario.clases
             }
 
         }
-
-        public bool Retira(double cantidad)
+        
+        //virtual permite sobrecargar el metodo
+        public virtual bool Retira(double cantidad)
         {
             if (saldo >= cantidad)
             {

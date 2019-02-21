@@ -1,12 +1,15 @@
+using System.Collections.Generic;
 namespace ProyectoBancario.clases
 {
     public class Cliente
     {
          private string nombre;
-         private CuentaBancaria cuenta;
+         //private CuentaBancaria cuenta;
+         private List<CuentaBancaria> cuentas; 
 
         public Cliente(string nombre){
             this.nombre=nombre;
+            cuentas= new List<CuentaBancaria>();
 
         }
 
@@ -22,10 +25,16 @@ namespace ProyectoBancario.clases
 
 
        
-        public CuentaBancaria Cuenta
+        public List<CuentaBancaria> Cuentas
         {
-            get { return cuenta;}
-            set { cuenta = value;}
+            get { return cuentas;}
+            //set { cuenta = value;}
+        }
+
+        public void AgregarCuenta(CuentaBancaria cta)
+        {
+            cuentas.Add(cta);
+
         }
         
         
