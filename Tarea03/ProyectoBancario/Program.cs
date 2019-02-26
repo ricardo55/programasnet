@@ -1,5 +1,6 @@
 ﻿using System;
 using ProyectoBancario.clases;
+using System.IO;
 
 namespace ProyectoBancario
 {
@@ -56,7 +57,29 @@ namespace ProyectoBancario
         }
         static void Main(string[] args)
         {
-            Banco miBanco = new Banco("Mac Pato SA de CV");
+
+            Banco miBanco;
+            string ruta = Directory.GetCurrentDirectory();
+            string arch="banco.dat";
+
+            if (File.Exists(ruta+"/"+arch))
+            {
+                //Aqui se carga el documento
+                miBanco=new Banco();
+                //Leer
+                Console.WriteLine("Archivo de datos si EXISTE, leyendo ARCHIVO");
+                miBanco=new Banco();
+                miBanco=Utilerias.Leer(arch);
+                
+            }else
+            {
+                
+            
+            Console.WriteLine("Archivo de datos NO EXISTE, creando datos y creando ARCHIVO");
+
+
+
+            miBanco = new Banco("Mac Pato SA de CV");
 
             miBanco.AgregarCliente(new Cliente("Cachorrin 1"));
             miBanco.AgregarCliente(new Cliente("Cachorrin 2"));
@@ -74,8 +97,10 @@ namespace ProyectoBancario
             miBanco.Clientes[1].Cuentas[1].Deposita(600);
             miBanco.Clientes[3].Cuentas[1].Deposita(50000);
 
+            Utilerias.Grabar(miBanco,arch);
 
 
+            }
 
 
             Console.WriteLine("-------- REPORTE GENERAL DEL BANCO------");

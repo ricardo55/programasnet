@@ -1,6 +1,8 @@
 using System.Collections.Generic;
+using System;
 namespace ProyectoBancario.clases
 {
+    [Serializable]
     public class Cliente
     {
          private string nombre;
