@@ -1,0 +1,11 @@
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Examen/SeguridadEnRedes/obj/Debug/netcoreapp2.2/SeguridadEnRedes.csprojAssemblyReference.cache
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Examen/SeguridadEnRedes/obj/Debug/netcoreapp2.2/SeguridadEnRedes.csproj.CoreCompileInputs.cache
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Examen/SeguridadEnRedes/obj/Debug/netcoreapp2.2/SeguridadEnRedes.AssemblyInfoInputs.cache
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Examen/SeguridadEnRedes/obj/Debug/netcoreapp2.2/SeguridadEnRedes.AssemblyInfo.cs
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Examen/SeguridadEnRedes/bin/Debug/netcoreapp2.2/SeguridadEnRedes.deps.json
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Examen/SeguridadEnRedes/bin/Debug/netcoreapp2.2/SeguridadEnRedes.runtimeconfig.json
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Examen/SeguridadEnRedes/bin/Debug/netcoreapp2.2/SeguridadEnRedes.runtimeconfig.dev.json
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Examen/SeguridadEnRedes/bin/Debug/netcoreapp2.2/SeguridadEnRedes.dll
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Examen/SeguridadEnRedes/bin/Debug/netcoreapp2.2/SeguridadEnRedes.pdb
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Examen/SeguridadEnRedes/obj/Debug/netcoreapp2.2/SeguridadEnRedes.dll
+/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/Examen/SeguridadEnRedes/obj/Debug/netcoreapp2.2/SeguridadEnRedes.pdb
