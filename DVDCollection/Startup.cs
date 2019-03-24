@@ -10,6 +10,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
+using Microsoft.EntityFrameworkCore;
+using DVDCollection.Models;
+
 namespace DVDCollection
 {
     public class Startup
@@ -30,6 +33,9 @@ namespace DVDCollection
                 options.CheckConsentNeeded = context => true;
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
+
+            services.AddDbContext<DVDContext>(options =>
+       options.UseSqlite(Configuration.GetConnectionString("DVDContext")));
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);

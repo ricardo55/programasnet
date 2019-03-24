@@ -1,5 +1,5 @@
 using System;
-using System.Collection.Generic;
+using System.Collections.Generic;
 
 namespace DVDCollection.Models
 {
@@ -8,7 +8,7 @@ namespace DVDCollection.Models
        public int CertificateID { get; set; }
        public string CertificateName { get; set; }   
 
-        public IDCollection<FilmTitle> FilmTitles { get; set; }
+        public ICollection<FilmTitle> FilmTitles { get; set; }
         
     }
 }

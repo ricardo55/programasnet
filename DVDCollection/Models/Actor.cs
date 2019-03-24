@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace DVDCollection.Models
 {
     public class Actor
@@ -6,7 +8,7 @@ namespace DVDCollection.Models
         public string ActorFullName { get; set; }
         public string ActorNotes { get; set; }
 
-        public IDCollection<FilmActorRole> FilmActorRoles { get; set; }
+        public ICollection<FilmActorRole> FilmActorRoles { get; set; }
         
     }
 }

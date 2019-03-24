@@ -1,5 +1,5 @@
 using System;
-using System.Collection.Generic;
+using System.Collections.Generic;
 
 namespace DVDCollection.Models
 {
@@ -8,7 +8,7 @@ namespace DVDCollection.Models
         public int GenreID { get; set; }
         public string GenreName { get; set; }
 
-        public IDCollection<FilTitle> FilmTitles { get; set; }
+        public ICollection<FilmTitle> FilmTitles { get; set; }
         
     }
 }

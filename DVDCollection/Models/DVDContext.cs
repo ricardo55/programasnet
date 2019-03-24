@@ -1,4 +1,4 @@
-using ContosoUniversity.Models;
+using DVDCollection.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace DVDCollection.Models
@@ -30,9 +30,10 @@ namespace DVDCollection.Models
             modelBuilder.Entity<Role>().ToTable("Role");
 
             modelBuilder.Entity<FilmActorRole>()
-                .HasKey(c => new { c.FilmTitleid, c.ActorID,c.RoleID,c.CharacterID });
-            modelBuilder.Entity<FilmActorRole>()
-                .HasKey(c => new { c.FilmTitleID, c.ActorID,c.RoleID,c.CharacterID });
+                .HasKey(c => new { c.FilmTitleID, c.ActorID, c.RoleID, c.CharacterName });
+
+            modelBuilder.Entity<FilmTitleProducer>()
+                .HasKey(c => new { c.ProducerID, c.FilmTitleID });
         }
     }
 }

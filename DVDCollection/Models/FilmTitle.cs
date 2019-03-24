@@ -1,11 +1,11 @@
 using System;
-using System.Collection.Generic;
+using System.Collections.Generic;
 
 namespace DVDCollection.Models
 {
-    public class FilTitle
+    public class FilmTitle
     {
-        public int FilTitleID { get; set; }
+        public int FilmTitleID { get; set; }
         public int GenreID { get; set; }
         public int CertificateID { get; set; }
         public string FilmName { get; set; }
@@ -14,8 +14,8 @@ namespace DVDCollection.Models
         public int FilmDuration { get; set; }
         public string FilmAdditionalInfo { get; set; }  
 
-        public IDCollection<FilmActorRole> FilmActorRoles { get; set; }
-        public IDCollection<FilmTitleProducer> FilmTitleProducers { get; set; }
+        public ICollection<FilmActorRole> FilmActorRoles { get; set; }
+        public ICollection<FilmTitleProducer> FilmTitleProducers { get; set; }
         public Genre Genre { get; set; }
         public Certificate Certificate { get; set; }
 

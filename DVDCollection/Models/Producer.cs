@@ -1,5 +1,5 @@
 using System;
-using System.Collection.Generic;
+using System.Collections.Generic;
 
 
 namespace DVDCollection.Models
@@ -11,7 +11,7 @@ namespace DVDCollection.Models
         public string ProducerEmail { get; set; }
         public string ProducerWeb { get; set; }
 
-        public IDCollection<FilTitleProducer> FilmTitleProducers { get; set; }
+        public ICollection<FilmTitleProducer> FilmTitleProducers { get; set; }
         
     }
 }
