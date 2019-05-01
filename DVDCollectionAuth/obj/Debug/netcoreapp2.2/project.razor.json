@@ -1,7 +1,5 @@
 {
-  "ProjectFilePath": "/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/DVDCollection2/DVDCollection.csproj",
-  "TargetFramework": "netcoreapp2.2",
-  "TagHelpers": [],
+  "FilePath": "/Users/ricardovb/Documents/UAZ/Decimo/SistemasInfGeografica/Proyectos/DVDCollectionAuth/DVDCollection.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -10,5 +8,8 @@
         "ExtensionName": "MVC-2.1"
       }
     ]
-  }
+  },
+  "ProjectWorkspaceState": null,
+  "RootNamespace": "DVDCollection",
+  "Documents": []
 }
