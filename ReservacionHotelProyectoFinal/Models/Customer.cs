@@ -26,7 +26,7 @@ namespace ReservacionHotelExamen2.Models
 
         [Display(Name="Fecha Cliente")]
         [DataType(DataType.Date)]
-        [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)] 
+        [DisplayFormat(DataFormatString = "{0:MM/dd/yyyy}", ApplyFormatInEditMode = true)] 
         public DateTime CustomerDOB { get; set; }  
 
         [Display(Name="Calle",Prompt="Bugambilias")]

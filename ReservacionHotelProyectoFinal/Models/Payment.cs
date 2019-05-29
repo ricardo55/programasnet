@@ -19,8 +19,9 @@ namespace ReservacionHotelExamen2.Models
         [Required(ErrorMessage="El Metodo de Pago es requerido")]
         public int PaymentMethodID { get; set; }
 
-        [Display(Name="Cantidad de Pago")]
+        [Display(Name="Cantidad de Pago",Prompt="1000")]
         [Range(0, int.MaxValue, ErrorMessage = "Porfavor introduce una cantidad valido")]
+        [DataType(DataType.Currency)]
         [Required(ErrorMessage="La Cantidad del Pago es requerido")]
         public long PaymentAmount { get; set; }
 
