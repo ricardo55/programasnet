@@ -48,6 +48,7 @@ namespace ReservacionHotelExamen2.Controllers
         public IActionResult Create()
         {
             ViewData["CustomerID"] = new SelectList(_context.Customer, "CustomerID", "CustomerAdressCountry");
+            //ViewData["CustomerID"] = new SelectList(_context.Customer, "CustomerID","CustomerTitle");
             return View();
         }
 
