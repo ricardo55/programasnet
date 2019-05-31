@@ -37,9 +37,12 @@
                 @Html.DisplayFor(modelItem => item.Room.RoomID)
             </td>
             <td>
+                @Html.ActionLink("Details", "Details", new {  id=item.RoomID  })
+                <!--
                 @Html.ActionLink("Edit", "Edit", new { /*  id=item.RoomID */ }) |
                 @Html.ActionLink("Details", "Details", new {  id=item.RoomID  }) |
                 @Html.ActionLink("Delete", "Delete", new { /* id=item.FacilitieListID */ })
+                -->
             </td>
         </tr>
 }

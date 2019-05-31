@@ -37,15 +37,17 @@
                 @Html.DisplayFor(modelItem => item.Guest.GuestTitle)
             </td>
             <td>
+                <a asp-action="Details" asp-route-id="@item.BookingID">Details</a>
                <!--
                 <a asp-action="Edit" asp-route-id="@item.BookingID">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.BookingID">Details</a> |
                 <a asp-action="Delete" asp-route-id="@item.BookingID">Delete</a>
                 -->
-                
+                <!--
                 @Html.ActionLink("Edit", "Edit", new { /* id=item.BookingID */ }) |
                 @Html.ActionLink("Details", "Details", new {  id=item.BookingID  }) |
                 @Html.ActionLink("Delete", "Delete", new {  id=item.BookingID  })
+                -->
             
             </td>
         </tr>
